@@ -1,8 +1,2 @@
-# BostoncrimeData-Python
-This project was a part of a course Computing for Analytics. The data was picked from Kaggle and analysed to learn basic 
-algorithm implementation using python. 
-
-Following concepts were used in the analysis:
-1. Descriptive Statistics
-2. Multiple Linear Regression
-3. K-Means clustering analysis
+# Data Science and Analytics Projects
+### This is a public repository that contains all the work done by Divye Anand Gupta using R, Tableau and Python in the field of data science during his master studies at Purdue University.
